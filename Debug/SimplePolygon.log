@@ -1,0 +1,34 @@
+﻿  SimplePolygon.cpp
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(38,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(363,151): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(365,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(367,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(369,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(375,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(413,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(414,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(416,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(417,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(426,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(431,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(433,1): warning C4091: '': ignored on left of 'int' when no variable is declared
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(439,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Shape.h(447,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(31,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(31,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(32,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(32,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(32,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(114,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(115,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(142,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(143,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(144,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(145,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(146,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(154,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(157,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(158,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\SimplePolygon.cpp(181,21): warning C4018: '<': signed/unsigned mismatch
+  SimplePolygon.vcxproj -> C:\Users\ASUS\Documents\Semester 5\Grafika Komputer\SimplePolygon\Debug\SimplePolygon.exe
